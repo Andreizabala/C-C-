@@ -406,5 +406,5 @@ main(){
 
 	hi();
 	merielle();
-	getche();
+	getch();
 }
