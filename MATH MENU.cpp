@@ -66,7 +66,7 @@ char ans=' ';
 				while ((option!='E')&&(option!='A')&&(option!='B')&&(option!='C')&&(option!='D'))
 				{
 					gotoxy(33,16);puts("Select an Option ");
-					//
+					
 					if ((option!='E')&&(option!='A')&&(option!='B')&&(option!='C')&&(option!='D'))			
 					{
 					
